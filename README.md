@@ -1,7 +1,6 @@
 # laravel-react-full-stack-application
-    To login, username = 'Shinpaingmin@gmail.com' , password = 12345$spm
-
-   ## Project Structure
+ 
+    ## Project Structure
     
     1. Axios was used as an api for frontend and backend
     2. Token Authentication was used for authorization
